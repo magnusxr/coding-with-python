@@ -1,2 +1,2 @@
 # coding-with-python
- codes developed in python class
+ codes developed throughout python course
