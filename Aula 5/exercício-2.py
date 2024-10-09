@@ -36,3 +36,9 @@ elif escolha == "2":
 
 else:
     print("Escolha inválida.")
+
+adicional = input(f"\nVocê escolheu a {lavagem}, no valor de R${valor}. Deseja adicionar o pretinho por mais R$5?\n1 - Sim\n2 - Não\n> ")
+
+if adicional == "1":
+    valor =+ 5
+    print(f"\nVocê escolheu a {lavagem} e o pretinho, no total de R${valor_total}.")
